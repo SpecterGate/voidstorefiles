@@ -1,1 +1,13 @@
 {
+  "apps": [
+    {
+      "name": "Media Player",
+      "description": "Play audio and video files",
+      "release_date": "2025-01-10",
+      "picture": "https://github.com/SpecterGate/voidstorefiles/blob/main/assets/Media%20Player/icon.jpeg?raw=true",
+      "banner": "https://github.com/SpecterGate/voidstorefiles/blob/6adfc2a1b918aaa894b2f1f76c8663e8fbfebb9e/assets/Media%20Player/banner.jpg?raw=true",
+      "install_link": "https://github.com/SpecterGate/voidstorefiles/raw/refs/heads/main/assets/Media%20Player/media-player.zip"
+    }
+
+  ]
+}
